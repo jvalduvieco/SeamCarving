@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun checkSpeed(...) {
+        // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4718#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 06 Dec 2022 06:35:25 UTC"
+record: -1
